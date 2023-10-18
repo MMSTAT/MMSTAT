@@ -1,0 +1,305 @@
+GLOMERULONEPHROPATHY SEVERITY
+
+Severity    Group1    Group2    Group3    Group4     Ridit
+
+none           5         5         7         4      0.03472
+minimum       20        25        16        13      0.20833
+mild          21        13        18        13      0.49306
+moderate      16        14        12        14      0.75000
+severe        10        15        19        28      0.93056
+            ======    ======    ======    ======
+              72        72        72        72
+
+
+
+ Mean       Mean       Mean       Mean     Population
+Ridit1     Ridit2     Ridit3     Ridit4       Ridit
+
+  0.5     0.50347    0.54350    0.63628      0.54581
+
+
+
+   Std1       Std2       Std3       Std4
+
+0.03402    0.03402    0.03402    0.03402
+
+
+
+             95% Confidence Intervals on Individual Mean Ridits
+
+         Group   Mean Ridit        ROUGH           USUAL      ODDS
+
+             1     0.500    0.432, 0.568    0.384, 0.616    1.00:1
+             2     0.503    0.435, 0.572    0.387, 0.620    1.01:1
+             3     0.543    0.475, 0.612    0.428, 0.659    1.19:1
+             4     0.636    0.568, 0.704    0.524, 0.748    1.75:1
+
+
+
+Scheffe` Analysis
+Test of Equal Mean Ridits
+
+              Degrees
+                 of
+ ChiSquare    Freedom     p_value
+
+  10.97123       3       0.011882
+
+
+
+Group1 vs Group2
+
+              Degrees
+  Scheffe`       of
+ ChiSquare    Freedom    p_value
+
+   0.00549       3       0.99989
+
+
+
+Group1 vs Group3
+
+              Degrees
+  Scheffe`       of
+ ChiSquare    Freedom    p_value
+
+   0.85590       3       0.83605
+
+
+
+Group1 vs Group4
+
+              Degrees
+  Scheffe`       of
+ ChiSquare    Freedom     p_value
+
+   8.41275       3       0.038209
+
+
+
+           95% Simultaneous Confidence Intervals on MeanRidits
+
+             Group       Bonferonni         Scheffe`      Odds
+               1       0.385, 0.615     0.050, 0.950    1.00:1
+               2       0.388, 0.619     0.054, 0.953    1.01:1
+               3       0.428, 0.659     0.094, 0.993    1.19:1
+               4       0.521, 0.751     0.187, 1.086    1.75:1
+
+
+
+
+
+Total Execution Time is 0.044 Minutes
+MONONUCLEAR CELL LEUKEMIA SEVERITY
+
+Severity    Group1    Group2    Group3     Ridit
+
+none          39        30        29      0.32667
+mild           4         5         2      0.69000
+moderate       2         5         9      0.78000
+severe         5        10        10      0.91667
+            ======    ======    ======
+              50        50        50
+
+
+
+  Mean       Mean      Mean     Population
+ Ridit1     Ridit2    Ridit3       Ridit
+
+0.43287    0.52633    0.5408        0.5
+
+
+
+   Std1       Std2       Std3
+
+0.04082    0.04082    0.04082
+
+
+
+             95% Confidence Intervals on Individual Mean Ridits
+
+         Group   Mean Ridit        ROUGH           USUAL      ODDS
+
+             1     0.433    0.351, 0.515    0.294, 0.572    1.00:1
+             2     0.526    0.445, 0.608    0.387, 0.666    1.46:1
+             3     0.541    0.459, 0.622    0.401, 0.680    1.55:1
+
+
+
+Scheffe` Analysis
+Test of Equal Mean Ridits
+
+              Degrees
+                 of
+ ChiSquare    Freedom     p_value
+
+   5.72328       2       0.057175
+
+
+
+Group1 vs Group2
+
+              Degrees
+  Scheffe`       of
+ ChiSquare    Freedom    p_value
+
+   3.88969       2       0.14301
+
+
+
+Group1 vs Group3
+
+              Degrees
+  Scheffe`       of
+ ChiSquare    Freedom     p_value
+
+   5.08331       2       0.078736
+
+
+
+           95% Simultaneous Confidence Intervals on MeanRidits
+
+             Group       Bonferonni         Scheffe`      Odds
+               1       0.371, 0.629     0.074, 0.926    1.00:1
+               2       0.464, 0.723     0.168, 1.019    1.46:1
+               3       0.479, 0.737     0.182, 1.034    1.55:1
+
+
+
+
+
+Total Execution Time is 0.032 Minutes
+1974 Transportation Study -Population
+
+Severity    Group1    Group2     Ridit
+
+none          357       417     0.21717
+minor         540       330     0.67845
+moderate       53        33     0.94669
+serious        35        17     0.98541
+            ======    ======
+              985       797
+
+
+
+  Mean       Mean     Population
+ Ridit1     Ridit2       Ridit
+
+0.53661    0.45476        0.5
+
+
+
+   Std1       Std2
+
+0.00920    0.01023
+
+
+
+             95% Confidence Intervals on Individual Mean Ridits
+
+         Group   Mean Ridit        ROUGH           USUAL      ODDS
+
+             1     0.537    0.518, 0.555    0.505, 0.568    1.00:1
+             2     0.455    0.434, 0.475    0.420, 0.489    0.72:1
+
+
+
+Scheffe` Analysis
+Test of Equal Mean Ridits
+
+              Degrees
+                 of
+ ChiSquare    Freedom      p_value
+
+  44.15871       1        3.028E-11
+
+
+
+Group1 vs Group2
+
+              Degrees
+  Scheffe`       of
+ ChiSquare    Freedom      p_value
+
+  44.15871       1        3.028E-11
+
+
+
+           95% Simultaneous Confidence Intervals on MeanRidits
+
+             Group       Bonferonni         Scheffe`      Odds
+               1       0.475, 0.525     0.435, 0.565    1.00:1
+               2       0.391, 0.445     0.349, 0.487    0.72:1
+
+
+
+
+
+Total Execution Time is 0.023 Minutes
+1974 Transportation Study -Group1
+
+Severity    Group1    Group2     Ridit
+
+none          357       417     0.18122
+minor         540       330     0.63655
+moderate       53        33     0.93756
+serious        35        17     0.98223
+            ======    ======
+              985       797
+
+
+
+ Mean       Mean     Population
+Ridit1     Ridit2       Ridit
+
+  0.5     0.41815      0.46339
+
+
+
+   Std1       Std2
+
+0.00920    0.01023
+
+
+
+             95% Confidence Intervals on Individual Mean Ridits
+
+         Group   Mean Ridit        ROUGH           USUAL      ODDS
+
+             1     0.500    0.482, 0.518    0.469, 0.531    1.00:1
+             2     0.418    0.398, 0.439    0.384, 0.452    0.72:1
+
+
+
+Scheffe` Analysis
+Test of Equal Mean Ridits
+
+              Degrees
+                 of
+ ChiSquare    Freedom      p_value
+
+  44.15871       1        3.028E-11
+
+
+
+Group1 vs Group2
+
+              Degrees
+  Scheffe`       of
+ ChiSquare    Freedom      p_value
+
+  44.15871       1        3.028E-11
+
+
+
+           95% Simultaneous Confidence Intervals on MeanRidits
+
+             Group       Bonferonni         Scheffe`      Odds
+               1       0.475, 0.525     0.435, 0.565    1.00:1
+               2       0.391, 0.445     0.349, 0.487    0.72:1
+
+
+
+
+
+Total Execution Time is 0.024 Minutes
