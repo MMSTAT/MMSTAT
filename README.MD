@@ -18,5 +18,6 @@
 
 © Copyright 2024 Mary A. Marion
 
-**Acknowledgements: Christopher Bilder, Phyllis Epps, and the iTAC team of K-StateTop Notch Computers & Technology Services**
+**Acknowledgements: Christopher Bilder, Phyllis Epps, and the iTAC team of K-State
+                    Top Notch Computers & Technology Services**
 
